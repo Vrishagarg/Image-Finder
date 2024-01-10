@@ -1,2 +1,2 @@
-# Image-Finder-
+# Image-Finder
 An API Javascript Project
